@@ -1,0 +1,17 @@
+# Core data manipulation
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine learning and modeling
+scikit-learn>=1.2.0
+xgboost>=1.7.0
+
+# Explainable AI
+shap>=0.41.0
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Geospatial handling (for county FIPS merging)
+geopandas>=0.12.0
